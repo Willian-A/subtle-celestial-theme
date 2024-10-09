@@ -2,8 +2,8 @@
   "name": "subtle-celestial",
   "displayName": "Subtle celestial",
   "description": "A custom VS Code theme with more subtle colors for details, based on Celestial Theme",
-  "version": "0.1.0",
-  "publisher": "WillianAlmeida  ",
+  "version": "0.1.1",
+  "publisher": "WillianAlmeida",
   "repository": {
     "type": "git",
     "url": "https://github.com/Willian-A/celestial-theme"
